@@ -1,6 +1,6 @@
 ## NineRui
 
-
+### 文章
 
 [simhash文本去重原理](https://github.com/ninerui/ninerui.github.io/issues/7)
 
@@ -20,42 +20,13 @@
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in
-your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### 个人介绍
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in
-your [repository settings](https://github.com/nineruiing/nineruiing.github.io/settings). The name of this theme is saved
-in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/)
-or [contact support](https://github.com/contact) and we’ll help you sort it out.
+姓名：王瑞
+学历: 全日制本科一批
+院校: 湖南农业大学
+电话: 13874879442
+邮箱: 2464250250@qq.com
+Github: https://github.com/ninerui
+技能点: python、机器学习、深度学习、机器视觉、推荐算法、自然语言处理、边缘计算、大数据
+```
